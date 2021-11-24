@@ -9,4 +9,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipin22875&layout=compact&theme=highcontrast)](https://github.com/Vipin22875/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vipin22875&repo=github-readme-stats)](https://github.com/Vipin22875/github-readme-stats)
