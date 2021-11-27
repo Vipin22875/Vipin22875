@@ -10,6 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipin22875&layout=compact&theme=highcontrast)](https://github.com/Vipin22875/github-readme-stats)
 
 
-[![Vipin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vipin22875&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vipin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vipin22875&theme=xcode)](https://github.com/Vipin22875/github-readme-activity-graph)
 
 
