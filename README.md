@@ -1,6 +1,6 @@
 ### Hello Vipin here 👋
 - 🌱 I’m currently learning Python
-- 💬 Ask me about C/Shell/Python
+- 💬 Ask me about C/Shell/Python/HTML/JS/PHP/CSS
 - ⚡ Fun fact: I Believe in [Udit Narayan](https://open.spotify.com/playlist/37i9dQZF1DWWW2TUg6EljY) Supremacy!!
 
 [![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipin22875&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/Vipin22875/github-readme-stats)
